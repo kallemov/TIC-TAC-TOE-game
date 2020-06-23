@@ -1,4 +1,4 @@
 # TIC-TAC-TOE-game 
-This is one of my educational code that uses minimax algorith to create a "smart" tic-tac-toe player.
+This is an educational python code that uses the minimax algorithm to create a "smart" tic-tac-toe player.
 
-The algorithm is looking for a shortest best move
+The algorithm is looking for a shortest best move.
